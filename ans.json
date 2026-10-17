@@ -1,0 +1,158 @@
+[
+  {
+    "prompt": "What is an operating system?",
+    "response": "An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs, acting as an intermediary between users and the computer hardware.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:00.000000+00:00",
+    "usage": {
+      "prompt_tokens": 14,
+      "completion_tokens": 33,
+      "total_tokens": 47
+    },
+    "error": null
+  },
+  {
+    "prompt": "What is the OSI model?",
+    "response": "The Open Systems Interconnection (OSI) model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven distinct abstraction layers to support interoperability.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:02.000000+00:00",
+    "usage": {
+      "prompt_tokens": 14,
+      "completion_tokens": 31,
+      "total_tokens": 45
+    },
+    "error": null
+  },
+  {
+    "prompt": "Who was Alan Turing?",
+    "response": "Alan Turing was a pioneering English mathematician, logician, and computer scientist, widely considered the father of theoretical computer science and artificial intelligence, and famous for his code-breaking work at Bletchley Park during WWII.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:04.000000+00:00",
+    "usage": {
+      "prompt_tokens": 13,
+      "completion_tokens": 36,
+      "total_tokens": 49
+    },
+    "error": null
+  },
+  {
+    "prompt": "How do computer networks work?",
+    "response": "Computer networks work by connecting multiple devices (nodes) using physical cables or wireless signals, allowing them to communicate, share data, and access resources using standardized communication protocols like TCP/IP.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:07.000000+00:00",
+    "usage": {
+      "prompt_tokens": 14,
+      "completion_tokens": 31,
+      "total_tokens": 45
+    },
+    "error": null
+  },
+  {
+    "prompt": "What is the Linux Kernel?",
+    "response": "The Linux Kernel is the core foundational component of a Linux operating system, responsible for directly managing hardware resources, memory, CPU processes, and bridging communication between software applications and physical hardware.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:09.000000+00:00",
+    "usage": {
+      "prompt_tokens": 14,
+      "completion_tokens": 33,
+      "total_tokens": 47
+    },
+    "error": null
+  },
+  {
+    "prompt": "What is a File system?",
+    "response": "A file system is a method and data structure used by an operating system to control how data is stored, organized, named, and retrieved on a storage medium like a hard drive or SSD.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:11.000000+00:00",
+    "usage": {
+      "prompt_tokens": 14,
+      "completion_tokens": 35,
+      "total_tokens": 49
+    },
+    "error": null
+  },
+  {
+    "prompt": "What is Docker?",
+    "response": "Docker is an open-source platform that enables developers to automate the deployment, scaling, and management of applications by packaging them and their dependencies into standardized, lightweight, and portable executable components called containers.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:13.000000+00:00",
+    "usage": {
+      "prompt_tokens": 12,
+      "completion_tokens": 33,
+      "total_tokens": 45
+    },
+    "error": null
+  },
+  {
+    "prompt": "What is a GPU and how is it different from a CPU?",
+    "response": "A GPU (Graphics Processing Unit) is a specialized processor designed to handle thousands of parallel operations simultaneously, making it ideal for rendering graphics and machine learning. A CPU (Central Processing Unit) is a general-purpose processor optimized for executing sequential instructions rapidly and managing overall system operations.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:16.000000+00:00",
+    "usage": {
+      "prompt_tokens": 21,
+      "completion_tokens": 48,
+      "total_tokens": 69
+    },
+    "error": null
+  },
+  {
+    "prompt": "What are the layers of the OSI model?",
+    "response": "The seven layers of the OSI model, from bottom to top, are: 1) Physical, 2) Data Link, 3) Network, 4) Transport, 5) Session, 6) Presentation, and 7) Application.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:18.000000+00:00",
+    "usage": {
+      "prompt_tokens": 16,
+      "completion_tokens": 30,
+      "total_tokens": 46
+    },
+    "error": null
+  },
+  {
+    "prompt": "What is BeeGFS?",
+    "response": "BeeGFS is a hardware-independent, highly scalable parallel file system developed specifically for performance-intensive workloads, such as High-Performance Computing (HPC) and artificial intelligence, by distributing data across multiple servers.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:20.000000+00:00",
+    "usage": {
+      "prompt_tokens": 14,
+      "completion_tokens": 30,
+      "total_tokens": 44
+    },
+    "error": null
+  },
+  {
+    "prompt": "What are the various components that comprise a computer?",
+    "response": "A computer typically comprises a Central Processing Unit (CPU), Motherboard, Random Access Memory (RAM), Storage drives (HDD/SSD), Power Supply Unit (PSU), input/output devices (keyboard, mouse, monitor), and optionally a specialized Graphics Processing Unit (GPU).",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:23.000000+00:00",
+    "usage": {
+      "prompt_tokens": 17,
+      "completion_tokens": 38,
+      "total_tokens": 55
+    },
+    "error": null
+  },
+  {
+    "prompt": "What is Federated Learning?",
+    "response": "Federated Learning is a decentralized machine learning technique where a shared global model is trained collaboratively across multiple decentralized edge devices or servers holding local data samples, without actually exchanging or centralizing the private data.",
+    "status": "success",
+    "model": "grok-beta",
+    "timestamp_utc": "2026-10-17T20:30:26.000000+00:00",
+    "usage": {
+      "prompt_tokens": 13,
+      "completion_tokens": 36,
+      "total_tokens": 49
+    },
+    "error": null
+  }
+]
